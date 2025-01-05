@@ -5,3 +5,13 @@ edition = "2021"
 
 [dependencies]
 cursive = "*"
+iocraft = "0.6.0"
+
+
+[[bin]]
+name = "cursive"
+path = "src/bin/main_cursive.rs"
+
+[[bin]]
+name = "iocraft"
+path = "src/bin/main_iocraft.rs"
