@@ -9,5 +9,5 @@ The following libraries are used to build the TUI's :
 
 ## Projects 
 
-1. [Hello World](Hello_World/Hello_World.md)
+1. [Hello World](hello_world/Hello_World.md)
 2. [Confirmation Dialog Box](confirmation_dialog_box/Confirmation_Dialog_Box.md)
