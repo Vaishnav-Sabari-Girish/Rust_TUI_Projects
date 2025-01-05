@@ -1,0 +1,7 @@
+[package]
+name = "all_famous_ui_elments"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cursive = "*"
