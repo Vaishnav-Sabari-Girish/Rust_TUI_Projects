@@ -1,4 +1,4 @@
-use cursive::views::{Button, Dialog};
+use cursive::views::Dialog;
 use cursive::Cursive;
 
 fn main() {
