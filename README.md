@@ -11,3 +11,4 @@ The following libraries are used to build the TUI's :
 
 1. [Hello World](hello_world/Hello_World.md)
 2. [Confirmation Dialog Box](confirmation_dialog_box/Confirmation_Dialog_Box.md)
+3. [Updating UI Elements](update_ui_elements/Update_UI_Elements.md)
