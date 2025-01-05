@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "all_famous_ui_elments"
+name = "all_famous_ui_elements"
 version = "0.1.0"
 dependencies = [
  "cursive",
